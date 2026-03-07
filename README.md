@@ -1,2 +1,24 @@
-# Student-Greades-Analysis
-This project analyzes student grades using Python and basic data analysis techniques.  The dataset contains student scores in three subjects. The program calculates the average score for each subject, identifies the top-performing student, and visualizes the results using a bar chart.
+# Student Grades Analysis
+
+## Project Overview
+This project analyzes student grades using Python and data analysis techniques.
+
+The analysis includes:
+- Average grades
+- Highest performing student
+- Grade distribution
+
+## Technologies Used
+Python  
+Pandas  
+Matplotlib  
+
+## Dataset
+The dataset contains student grades across different subjects.
+
+## Results
+The analysis provides insights about student performance and grade distribution.
+
+## Future Improvements
+- Add more subjects
+- Create visual dashboards
